@@ -1,0 +1,180 @@
+body{
+
+    padding-top: 50px;
+    background-color: rgb(196, 192, 189);
+    text-align: center;
+}
+footer{
+    margin-top: 1330px;
+    background-color: white;
+
+}
+
+#top1{
+    position: absolute;
+    margin-left: 200px;
+}
+#top2{
+    margin-left: 600px;
+    position: absolute;
+}
+#top3{
+    margin-left: 1050px;
+    position: absolute;
+}
+#top4{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 440px;
+}
+#top5{
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 440px;
+}
+#top6{
+    margin-left: 1050px;
+    position: absolute;
+    margin-top: 440px;
+}
+#top7{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 880px;
+}
+#top8{
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 880px;
+}
+#top9{
+    margin-left: 1050px;
+    position: absolute;
+    margin-top: 880px;
+}
+#bas1{
+    position: absolute;
+    margin-left: 200px;
+}
+#bas2{
+    position: absolute;
+    margin-left: 600px;
+}
+#bas3{
+    position: absolute;
+    margin-left: 1050px;
+}
+#bas4{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 440px;
+}
+#bas5{
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 440px;
+}
+#bas6{
+    margin-left: 1050px;
+    position: absolute;
+    margin-top: 440px;
+}
+#bas7{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 880px;
+}
+#bas8{
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 880px;
+}
+#bas9{
+    margin-left: 1050px;
+    position: absolute;
+    margin-top: 880px;
+}
+#robe1{
+    position: absolute;
+    margin-left: 200px;
+}
+#robe2{
+    margin-left: 600px;
+    position: absolute;
+}
+#robe3{
+    margin-left: 1050px;
+    position: absolute;
+}
+#robe4{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 440px;
+}
+#robe5{
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 440px;
+}
+#robe6{
+    margin-left: 1050px;
+    position: absolute;
+    margin-top: 440px;
+}
+#robe7{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 880px;
+}
+#robe8{
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 880px;
+}
+#robe9{
+    margin-left: 1050px;
+    position: absolute;
+    margin-top: 880px;
+}
+#chaussure1{
+    position: absolute;
+    margin-left: 200px;
+}
+#chaussure2{
+    margin-left: 600px;
+    position: absolute;
+}
+#chaussure3{
+    margin-left: 1050px;
+    position: absolute;
+}
+#chaussure4{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 440px;
+}
+#chaussure5{
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 440px;
+}
+#chaussure6{
+    margin-left: 1050px;
+    position: absolute;
+    margin-top: 440px;
+}
+#chaussure7{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 880px;
+}
+#chaussure8{
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 880px;
+}
+#chaussure9{
+    margin-left: 1050px;
+    position: absolute;
+    margin-top: 880px;
+}
